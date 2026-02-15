@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project Name: Project Management Tool Automation Framework
 
 ## Technology Stack / Tools Used
@@ -29,3 +30,6 @@ Framework Design:
 - Valid credentials exist
 - Application URL is accessible
 - Chrome browser installed if using Chrome
+=======
+# MaxlenceProjectManagementTool_Selenium_Java
+>>>>>>> aaa8161d0f5c602802491a3ccd683f0b70cb1d31
